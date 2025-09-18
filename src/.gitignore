@@ -1,0 +1,9 @@
+__pycache__/
+.qodo/
+.vscode/
+artifacts/
+__init__.py
+model.ipynb
+model.py
+recommender.code-workspace
+VENV/
