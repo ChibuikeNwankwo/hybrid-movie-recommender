@@ -2,8 +2,8 @@ __pycache__/
 .qodo/
 .vscode/
 artifacts/
+VENV/
 __init__.py
 model.ipynb
 model.py
 recommender.code-workspace
-VENV/
